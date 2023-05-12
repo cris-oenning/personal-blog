@@ -22,7 +22,7 @@ Requires Node.Js version 18 (or higher) installed. -> https://nodejs.org/
 
 Access the website with the link below:
 
-https://blog-pessoal.vercel.app/
+https://blog-pessoal-opal.vercel.app/
 
 # Expansion:
 
